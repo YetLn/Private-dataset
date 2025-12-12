@@ -8,3 +8,5 @@
 
 5.For further examples of the dataset and annotation details, please refer to the file labels instruction.docx.
 
+6.Additional precautions will be updated periodically.
+
